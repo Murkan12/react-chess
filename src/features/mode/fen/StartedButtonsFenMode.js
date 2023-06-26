@@ -21,7 +21,7 @@ const StartedButtonsFenMode = () => {
             disabled={state.panel.history.back !== 0}
             onClick={() => Ws.undo()}
           >
-            Undo move
+            Takeback
           </Button>
         </ButtonGroup>
       );
