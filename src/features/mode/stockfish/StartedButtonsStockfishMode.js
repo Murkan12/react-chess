@@ -27,7 +27,7 @@ const StartedButtonsStockfishMode = () => {
               Ws.undo();
               Ws.undo();
           }}>
-            Undo move
+            Takeback
           </Button>
         </ButtonGroup>
       );
